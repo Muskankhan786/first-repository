@@ -1,1 +1,1 @@
-Hi this is first file in feature branch using for pushing
+This is the file 2 and testing git stash
