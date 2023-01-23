@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This was the changes done in main branch
+=======
+Hi this is the file1 in branch
+>>>>>>> featureBranch
